@@ -1,3 +1,5 @@
+@import "modalcss.css";
+@import url("modalcss.css");
 .row-header {
     margin: 0px auto;
     padding: 0px auto;
