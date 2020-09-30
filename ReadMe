@@ -1,0 +1,22 @@
+############################################################################################################# ANIK#####################################
+
+
+This is simple restaurent website using html and mostly bootstrap.
+I tried some less scss but basics of them here.
+
+The design include
+--Mobile responsive design
+--Carousel
+-- login-form
+--reservation form
+--Modal using jquery
+--tooltip using jquery
+-- carousel play pause button(individual)
+-- carousel play and pause button in one button
+-- image
+-- about
+-- contact us
+-- about
+-- extra responsive for small screen devices.
+
+thanks for viewing my git. If you have any advice please do tell me.
